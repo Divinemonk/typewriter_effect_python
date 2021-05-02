@@ -66,4 +66,12 @@
 ```
 7. time.sleep(0.05)
 ```
-[+] More about : [time.sleep()]()
+[+] More about : [time.sleep()](https://bit.ly/3ecKeis)
+
+<br>
+
+### Here we are calling the function 'typing()' , and giving argument 'Hello _ World !!' 
+```
+9. typing("Hello _ World !!")
+```
+[+] More about : [calling function](https://bit.ly/3nDsVdN)
