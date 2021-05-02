@@ -30,7 +30,11 @@
 <br>
 
 ### In the first line of code we are importing some packages that we need to create typing effect.
-### More about : [import]() , [sys]() , [time]()
 ```
 1.	import sys, time
 ```
+[+] More about : [import]() , [sys]() , [time]()
+
+---
+
+### Now on third line we are creating a function , named 'typing' and passing argument 'text'.
