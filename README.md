@@ -55,7 +55,15 @@
 
 ### Next two lines (5 & 6) our program prints given string , one by one .
 ```
-5.			sys.stdout.write(character)
-6.			sys.stdout.flush()
+5. sys.stdout.write(character)
+6. sys.stdout.flush()
 ````
 [+] More about : [sys.stdout.write()](https://bit.ly/3ePKiDV) , [sys.stdout.flush()](https://bit.ly/2PJAz9W)
+
+<br>
+
+###  Set the time to print each string . You can change the time within brackets as want.
+```
+7. time.sleep(0.05)
+```
+[+] More about : [time.sleep()]()
