@@ -1,6 +1,6 @@
 # Typewriter / Typing Effect - in Python
 
-### Let's create a program in python to print sectences like someone is actually typing !!
+### Let's create a program in python to print sentences like someone is actually typing !!
 
 <br>
 
