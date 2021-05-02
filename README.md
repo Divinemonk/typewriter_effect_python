@@ -29,3 +29,8 @@
 
 <br>
 
+### In the first line of code we are importing some packages that we need to create typing effect.
+### More about : [import]() , [sys]() , [time]()
+```
+1.	import sys, time
+```
