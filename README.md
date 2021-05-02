@@ -18,6 +18,10 @@
 9.	typing("Hello _ World !!")
 ```
 
+<br>
+
+## Run this code online : [Python Editor](https://www.online-python.com/f8LhvYC7Fr)
+
 <br> 
 
 ---
