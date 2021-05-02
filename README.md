@@ -15,3 +15,12 @@ def typing(text):
 
 typing("Hello _ World !!")
 ```
+
+<br> 
+
+---
+
+<br> 
+
+## Explaination !!
+> For people who want to learn & understand what is happening in the code !
