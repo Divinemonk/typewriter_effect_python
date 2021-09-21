@@ -7,15 +7,15 @@
 ## Code 
 
 ```
-1.	import sys, time
-2.
-3.	def typing(text):
-4.		for character in text:
-5.			sys.stdout.write(character)
-6.			sys.stdout.flush()
-7.			time.sleep(0.05)
-8.
-9.	typing("Hello _ World !!")
+import sys, time
+
+def typing(text):
+    for character in text:
+      sys.stdout.write(character)
+			sys.stdout.flush()
+			time.sleep(0.05)
+
+typing("Hello _ World !!")
 ```
 
 <br>
